@@ -1,0 +1,22 @@
+{
+  "name": "aplikasidatakaryawan",
+  "version": "1.0.0",
+  "description": "test coding Aplikasi Data Karyawan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyWebDev284/AplikasiDataKaryawan.git"
+  },
+  "keywords": [],
+  "author": "rezon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnnyWebDev284/AplikasiDataKaryawan/issues"
+  },
+  "homepage": "https://github.com/JohnnyWebDev284/AplikasiDataKaryawan#readme"
+}
